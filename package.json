@@ -1,0 +1,11 @@
+{
+  "name": "f1-fan-arena",
+  "version": "1.0.0",
+  "description": "Formel-1-Fanspiele: Blind Ranking, Higher or Lower, Time Machine, Wer bin ich? und Weltmeister-Quiz",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node --test"
+  }
+}
